@@ -1,0 +1,4 @@
+# TESTING TO SEE IF THIS IS COMMENT SECTION WHERE IT WILL NOT PRINT OUT
+
+puts "I could have code like this", "HELLLOOOOOO", "TESTIN TEISNG"
+puts "This will run"
